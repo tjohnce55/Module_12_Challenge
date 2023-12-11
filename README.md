@@ -28,3 +28,14 @@ Credit Risk Analysis using Logistic Regression Models and Oversampling.
 ## Summary/Conclusion
 
 Based on the results, the machine learning model fit with the oversampled data seems to perform best. Recall is important in this situation because it would be very undesirable for the lending company to identify a 'high-risk loan' as a 'healthy loan' and lend out funds to that 'high-risk' borrower, which will likely lead to loss of funds for the lending company. The second model we analyzed, fit with oversampled data, had higher recall than the model fit with orignal (imbalanced) data. I would definitely recommend thast the lending company use the Machine Learning Model 2 that used the random oversampling method.
+
+## Instructions
+The instructions for this Challenge are divided into the following subsections:
+
+1. Split the Data into Training and Testing Sets
+
+2. Create a Logistic Regression Model with the Original Data
+
+3. Predict a Logistic Regression Model with Resampled Training Data
+
+4. Write a Credit Risk Analysis Report
